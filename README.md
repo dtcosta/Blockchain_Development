@@ -3,7 +3,7 @@
 
 ![alt text](https://github.com/dtcosta/Blockchain-Development/blob/main/screenshots/header.jpg)
 
-For this project, I will take on the role of a new developer at a small bank. My mission will be to set up a testnet blockchain for our organization. To do this, I will create and submit four deliverables:
+My mission will be to set up a testnet blockchain for our organization. To do this, I will create and submit four deliverables:
 
 * Set up a custom testnet blockchain.
 
